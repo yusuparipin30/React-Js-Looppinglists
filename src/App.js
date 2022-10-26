@@ -1,4 +1,4 @@
-//MEMBUAT LOOPING LISTS (berfungsi untuk merubah variable) dan jangan lupa mengimport di react library
+//MEMBUAT LOOPING LISTS (berfungsi mengoutput list data pada react dengan memanfaatkan fungsi map pada javascript.) dan jangan lupa mengimport di react library
 import { useState } from "react"
 // //LOOPING , apabila kita ingin mengoutput lists data dari database bisa menggunakan fungsi map pada javascrippt
 // //contoh membuat state baru yaitu products dan state nya adalah setProducts, data terdapat array object yaitu
